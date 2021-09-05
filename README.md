@@ -4,9 +4,9 @@ Download the code or clone the repository
 cd into the repository
 
 run the below commands:
-	- npm install
-	- npm run server
-	- npm start
+npm install
+npm run server
+npm start
 
 The app will open your browser and launched on localhost:3000
 To view the site in the browser navigate to localhost:3000 in your search box
