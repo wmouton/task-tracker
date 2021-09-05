@@ -1,4 +1,4 @@
-# Launching the app
+# Running the application
 
 Download the code or clone the repository
 cd into the repository
