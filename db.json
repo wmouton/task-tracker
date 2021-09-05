@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Create React Front-End",
+      "day": "Dev Day 6am",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Create Node Back-End",
+      "day": "Dev Day 9am",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Create MongoDB Database",
+      "day": "Dev Day 4pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
